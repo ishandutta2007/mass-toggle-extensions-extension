@@ -1,0 +1,44 @@
+{
+  "appName": {
+    "message": "Mass Toggle Tabs − toggle all tabs at once"
+  },
+  "appShortName": {
+    "message": "Mass Toggle Tabs"
+  },
+  "appDesc": {
+    "message": "Refresh / Toggle all the tabs at once click"
+  },
+  "placeholder": {
+    "message": "Search tab"
+  },
+  "deleteAll": {
+    "message": "Delete all"
+  },
+  "deleteConfirmation": {
+    "message": "Are you sure you want to delete all items?"
+  },
+  "showDone": {
+    "message": "Show done"
+  },
+  "hideDone": {
+    "message": "Hide done"
+  },
+  "cancel": {
+    "message": "Cancel"
+  },
+  "darkMode": {
+    "message": "Dark mode"
+  },
+  "buttonSize": {
+    "message": "Button size"
+  },
+  "small": {
+    "message": "Small"
+  },
+  "medium": {
+    "message": "Medium"
+  },
+  "large": {
+    "message": "Large"
+  }
+}
