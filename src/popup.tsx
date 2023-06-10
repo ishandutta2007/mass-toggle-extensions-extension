@@ -33,7 +33,7 @@ const Popup = () => {
   // }
   return (<div>  COPY THE FOLLOWING:
       <span>
-      {/*
+        <code>
         try {
           let extensions = document.querySelector('extensions-manager').shadowRoot.querySelector('cr-view-manager').querySelector('extensions-item-list').shadowRoot.querySelectorAll("div#container div#content-wrapper div.items-container extensions-item");
           for(let i=0;i<extensions.length;i++) {
@@ -48,7 +48,7 @@ const Popup = () => {
           alert("No ext");
           console.log(error);
         }
-        */}
+        </code>
       </span>
   </div>);
 };
